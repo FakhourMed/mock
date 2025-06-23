@@ -9,7 +9,7 @@
     "lastName": "Fakhour",
     "email": "fakhour@email.com",
     "phone": "+212666666666",
-    "birthdate: "11/11/1985",
+    "birthdate: "11-11-1985",
     "sessionToken": "sfdvsd*sfdv$sdfv"
   },
   "signup": {
@@ -17,7 +17,7 @@
     "lastName": "Fakhour",
     "email": "fakhour@email.com",
     "phone": "+212666666666",
-    "birthdate: "11/11/1985",
+    "birthdate: "11-11-1985",
     "sessionToken": "sfdvsd*sfdv$sdfv"
   }
 }
