@@ -25,5 +25,11 @@
       "birthdate": "11-11-1985",
       "sessionToken": "sfdvsd*sfdv$sdfv"
     }
+  },
+  "sendOTP": { 
+    "message":"Success",
+    "data":{
+      "otpCode": "1234"
+    }
   }
 }
